@@ -379,7 +379,7 @@ This project is open source and available under the ISC License.
 
 For support and questions:
 - Open an issue on GitHub
-- Email: khaledmostafa4044@gmail.com
+- Email: khaledas418@gmail.com
 - Check the documentation wiki
 
 ---
